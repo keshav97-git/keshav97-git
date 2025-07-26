@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently Web developer<br><br>👨‍💻 I am always open for collaboration<br><br>📝 I regularly write post on socials<br><br>💬 Ask me about HTML,CSS, Javascript , React<br><br>📫 How to reach me keshav97yadav@gmail.com
+🌱 I’m currently SDET<br><br>👨‍💻 I am always open for collaboration<br><br>📝 I regularly write post on socials<br><br>💬 Ask me about Software Testing<br><br>📫 How to reach me keshav97yadav@gmail.com
 
 
 ## 🌐 Socials:
